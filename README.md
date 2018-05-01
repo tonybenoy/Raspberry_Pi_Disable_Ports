@@ -9,3 +9,9 @@ $ cd Raspberry_Pi_Disable_Ports
 $ chmod 700 usb.sh
 
 $ ./usb.sh
+
+To stop usb devices
+$ stopusb 
+
+to stop usb devices
+$ startusb 
